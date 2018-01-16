@@ -1,7 +1,7 @@
 # oc-acte-myip
 Plugin for OctoberCMS. Display the client public IP address in JSON and RAW.
 
-Very cimple component that returns client public IP address.
+Very simple component that returns client public IP address.
 
 - Upload folder to your OctoberCMS plugin directory
 - Add component in your page
