@@ -7,5 +7,6 @@ Very cimple component that returns client public IP address.
 - Add component in your page
 - Setup page URL like /ip/:format
 
-/ip/raw will return client IP as text
-/ip/json will return JSON format like {"ip":"1.2.3.4"}
+Formats:
+- /ip/raw will return client IP as text
+- /ip/json will return JSON format like {"ip":"1.2.3.4"}
