@@ -25,9 +25,7 @@ class Myip extends ComponentBase
         return [];
     }
 
-    /**
-    Get client IP from server global variable
-    **/
+    //Get client IP from server global variable
 
     function getIp()
     {
