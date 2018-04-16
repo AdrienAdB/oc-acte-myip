@@ -49,9 +49,7 @@ class Plugin extends PluginBase
      */
     public function registerComponents()
     {
-        return [
-            'Acte\Myip\Components\Myip' => 'myip',
-        ];
+        return [];
     }
 
     /**
